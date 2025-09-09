@@ -27,3 +27,7 @@ The goal of Nscout is to provide football clubs with a data-driven tool to enhan
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Development Environment**: Jupyter Notebook
 
+## ⚠️ Disclaimer
+
+This project is for educational purposes only.
+The system is a prototype and is not intended for professional scouting or decision-making in real-world football operations.
